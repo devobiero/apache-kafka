@@ -1,0 +1,15 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kafka-admin.js",
+  "scripts": {
+    "format": "prettier --write **/*.{js,json}"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "kafkajs": "1.15.0",
+    "prettier": "2.2.1"
+  }
+}
